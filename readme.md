@@ -1,4 +1,4 @@
-<h2 align="center">Figma Design: <a href="[Insert Figma Design Link]">[Project Name] Design</a></h2>
+<h2 align="center">Canva Design: <a href="[[Insert Figma Design Link]](https://www.canva.com/design/DAGhk3g2sQA/mEwNBhaWXp9uSEKDf77SRg/edit)">Design</a></h2>
 
 <img src="img/hero.jpg" alt="[Project Name] Hero Image">
 
